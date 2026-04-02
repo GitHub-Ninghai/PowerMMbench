@@ -1,0 +1,1302 @@
+[
+    {
+        "image": "c68738253ef145a9bd1c18ec18740e66.jpg",
+        "question": "What is the type of building in the picture?",
+        "choice": [
+            "(A) Wind turbine",
+            "(B) Nuclear power plant",
+            "(C) Thermal power plant",
+            "(D) Hydroelectric power plant",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Power"
+    },
+    {
+        "image": "22b4dc83677e4e76ba4290a681db7836.jpg",
+        "question": "What is the facility in the picture?",
+        "choice": [
+            "(A) Transformer",
+            "(B) Transmission tower",
+            "(C) Solar panel",
+            "(D) Nuclear power plant",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Power"
+    },
+    {
+        "image": "e8f87e22a54b4b6ca36ca8e767e44fe5.jpg",
+        "question": "What is the use of the equipment in the picture?",
+        "choice": [
+            "(A) Convert DC to AC",
+            "(B) Change voltage level",
+            "(C) Store electrical energy",
+            "(D) Detect electrical current",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Power"
+    },
+    {
+        "image": "dfe86d1d22f4414990c974db740375dc.jpg",
+        "question": "What facilities are shown in the picture?",
+        "choice": [
+            "(A) Solar power station",
+            "(B) Substation",
+            "(C) Transformer station",
+            "(D) Power distribution line",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Power"
+    },
+    {
+        "image": "5ff90b49e5cd467999a01b0bb3eaaf41.jpg",
+        "question": "What is the equipment in the picture?",
+        "choice": [
+            "(A) Transformer",
+            "(B) Generator",
+            "(C) Distribution panel",
+            "(D) Circuit breaker",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Power"
+    },
+    {
+        "image": "9ad69749a81a478e907ad428c13997c3.jpg",
+        "question": "What is the function of the equipment in the picture?",
+        "choice": [
+            "(A) Adjust the circuit resistance to change the current size",
+            "(B) Change the voltage level",
+            "(C) Protect the circuit by cutting it off in time",
+            "(D) Store electrical energy",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Power"
+    },
+    {
+        "image": "68a594e71500477ead6304543c0d79d3.jpg",
+        "question": "What is the result that cannot be caused by the equipment failure in the picture?",
+        "choice": [
+            "(A) Affect the stability of the entire power system",
+            "(B) Cause voltage anomalies (such as too high or too low)",
+            "(C) Cause short circuits, overloads, or fires",
+            "(D) Make it impossible for workers to manually cut off the circuit",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Power"
+    },
+    {
+        "image": "f532b76e378a46fba1bbbb01d29cf83a.jpg",
+        "question": "What is the equipment in the picture?",
+        "choice": [
+            "(A) Distribution panel",
+            "(B) Transformer",
+            "(C) Circuit breaker",
+            "(D) Energy storage system",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Power"
+    },
+    {
+        "image": "5f201f4d93e0448fbb95163f0eaa005a.jpg",
+        "question": "What is the function of the equipment in the picture?",
+        "choice": [
+            "(A) Distribute power to various circuits and devices",
+            "(B) Protect circuits and devices from overload",
+            "(C) Execute automatic control logic",
+            "(D) Real-time monitoring of current, voltage, and power parameters",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Power"
+    },
+    {
+        "image": "254a5c2275df4d2bb26cadeb42d1fe05.jpg",
+        "question": "What is the problem caused by the equipment failure in the picture?",
+        "choice": [
+            "(A) All or part of the circuit loses power",
+            "(B) The generator cannot operate normally",
+            "(C) The circuit breaker cuts off",
+            "(D) The circuit causes a short circuit",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Power"
+    },
+    {
+        "image": "c6203b9728af41b18ee060fbfc1f9fac.jpg",
+        "question": "What is the equipment in the picture?",
+        "choice": [
+            "(A) Transformer",
+            "(B) Mobile cable",
+            "(C) Bus",
+            "(D) Generator",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Power"
+    },
+    {
+        "image": "9fbf246f6ce7469b901ff6a394a6157c.jpg",
+        "question": "What is the property or use of the equipment in the picture?",
+        "choice": [
+            "(A) Transfer power from one device to another",
+            "(B) Heavy design, requires special equipment for transportation",
+            "(C) Can be used to connect various electrical devices",
+            "(D) Has good insulation properties on the surface",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Power"
+    },
+    {
+        "image": "b2f0eb4e192c4966b52245f91452e7b7.jpg",
+        "question": "What energy does the generator in the picture use to generate electricity?",
+        "choice": [
+            "(A) Nuclear energy",
+            "(B) Chemical energy",
+            "(C) Solar energy",
+            "(D) Wind energy",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Power"
+    },
+    {
+        "image": "c19034f8f66f4b69bd09bff2a3caa431.jpg",
+        "question": "What type of power station is shown in the picture?",
+        "choice": [
+            "(A) Nuclear power plant",
+            "(B) Hydroelectric power plant",
+            "(C) Wind power station",
+            "(D) Thermal power plant",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Power"
+    },
+    {
+        "image": "48e34cbd89f24517ae3d6c5f02b21156.jpg",
+        "question": "What energy does the facility in the picture convert to electricity?",
+        "choice": [
+            "(A) Mechanical energy of water flow",
+            "(B) Nuclear energy",
+            "(C) Chemical energy",
+            "(D) Solar energy",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Power"
+    },
+    {
+        "image": "0ff6f041f1574150abb1375ce8967a5c.jpg",
+        "question": "What energy does the facility in the picture convert to electricity?",
+        "choice": [
+            "(A) Chemical energy of fuel",
+            "(B) Solar energy",
+            "(C) Nuclear energy",
+            "(D) Mechanical energy of wind",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Power"
+    },
+    {
+        "image": "5634802ed61242ecb472b3c363ad5bf7.jpg",
+        "question": "What is the power facility in the picture?",
+        "choice": [
+            "(A) Nuclear power plant",
+            "(B) Thermal power plant",
+            "(C) Wind power station",
+            "(D) Hydroelectric power plant",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Power"
+    },
+    {
+        "image": "85a795b225874a5c8cc6caf9d0ab79e9.jpg",
+        "question": "How many chimneys (excluding cooling towers) are there in the power station in the picture?",
+        "choice": [
+            "(A) 1",
+            "(B) 2",
+            "(C) 3",
+            "(D) 4",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Power"
+    },
+    {
+        "image": "8a4d37be0d264e3faac2e2b67faf7924.jpg",
+        "question": "How many chimneys (excluding cooling towers) are there in the power station in the picture?",
+        "choice": [
+            "(A) 1",
+            "(B) 2",
+            "(C) 3",
+            "(D) 4",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Power"
+    },
+    {
+        "image": "6ed589277bd9439ca72204472814d743.jpg",
+        "question": "What is the main purpose of the power facility in the picture?",
+        "choice": [
+            "(A) Generate electricity",
+            "(B) Transport electricity",
+            "(C) Store electricity",
+            "(D) Distribute electricity",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Power"
+    },
+    {
+        "image": "73469d250efc4867ad3783e33a98ee69.jpg",
+        "question": "What is the location of the equipment in the power system in the picture?",
+        "choice": [
+            "(A) Inside the power plant",
+            "(B) Transmission line",
+            "(C) User side",
+            "(D) Substation",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Power"
+    },
+    {
+        "image": "fce212f52065436cba15a4100ac38608.jpg",
+        "question": "What is the environment of the power equipment in the picture?",
+        "choice": [
+            "(A) Indoor",
+            "(B) Outdoor",
+            "(C) Underwater",
+            "(D) Underground",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Power"
+    },
+    {
+        "image": "92a3b857f8874b7fb2a082dbe64ef4c0.jpg",
+        "question": "What type of power problem does the power facility in the picture mainly handle?",
+        "choice": [
+            "(A) Overload protection",
+            "(B) Voltage regulation",
+            "(C) Power distribution",
+            "(D) Power storage",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Power"
+    },
+    {
+        "image": "241589e2db274ae8baf0a727068f1012.jpg",
+        "question": "What type of transmission line is shown in the picture?",
+        "choice": [
+            "(A) Underground cable",
+            "(B) Overhead line",
+            "(C) DC transmission line",
+            "(D) AC transmission line",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Power"
+    },
+    {
+        "image": "0e0b30d4a4d243cf9889011293f5236a.jpg",
+        "question": "What is the main purpose of the power equipment in the picture?",
+        "choice": [
+            "(A) Measure power quality",
+            "(B) Power distribution",
+            "(C) Power conversion",
+            "(D) Power storage",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Power"
+    },
+    {
+        "image": "b10c9e2c12a7428c85c9f7be4afd93f2.jpg",
+        "question": "What is the power tool in the picture?",
+        "choice": [
+            "(A) Voltage tester",
+            "(B) Insulation gloves",
+            "(C) Grounding rod",
+            "(D) Insulation rod",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Power"
+    },
+    {
+        "image": "2f6e5d67921a4c64a243b1853aa5aaa3.jpg",
+        "question": "What is the power equipment in the picture, and what is its main purpose?",
+        "choice": [
+            "(A) Fuse, protect the circuit from overload",
+            "(B) Contactor, used for remote control of circuit switches",
+            "(C) Relay, used for automatic control of circuits",
+            "(D) Circuit breaker, used for overload and short circuit protection of circuits",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Power"
+    },
+    {
+        "image": "89c346e0675643c29964cd54ab6e1b6f.jpg",
+        "question": "What type of transformer is most likely based on the structural features of the transformer in the picture?",
+        "choice": [
+            "(A) Oil-immersed transformer",
+            "(B) Dry-type transformer",
+            "(C) Gas-insulated transformer",
+            "(D) Autotransformer",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Power"
+    },
+    {
+        "image": "c91fa1bf7714442289eb2f08b9e6c47a.jpg",
+        "question": "What type of circuit breaker is shown in the picture?",
+        "choice": [
+            "(A) Vacuum circuit breaker",
+            "(B) SF6 circuit breaker",
+            "(C) Oil circuit breaker",
+            "(D) Air circuit breaker",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Power"
+    },
+    {
+        "image": "e935e0d6e69e426fb088d24428b5dd2b.jpg",
+        "question": "What type of cable connector is shown in the picture?",
+        "choice": [
+            "(A) Hot-shrinkable cable connector",
+            "(B) Cold-shrinkable cable connector",
+            "(C) Pre-fabricated cable connector",
+            "(D) Oil-filled cable connector",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Power"
+    },
+    {
+        "image": "d35a6dad3284489398102687119d6352.jpg",
+        "question": "What problem is most likely to occur based on the waveform displayed by the power equipment detection instrument in the picture?",
+        "choice": [
+            "(A) Harmonic interference",
+            "(B) Voltage fluctuation",
+            "(C) Phase imbalance",
+            "(D) Low power factor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Power"
+    },
+    {
+        "image": "e56bf5e7286b41079ad80fa9e75359ae.jpg",
+        "question": "What is the protective device for the power equipment in the picture?",
+        "choice": [
+            "(A) Surge arrester",
+            "(B) Current limiter",
+            "(C) Protection relay",
+            "(D) High voltage circuit breaker",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Power"
+    },
+    {
+        "image": "d8ba2f4d5dbe4e7b8fedeff12218f733.jpg",
+        "question": "What is the installation method of the power equipment in the picture?",
+        "choice": [
+            "(A) Ground installation",
+            "(B) Wall installation",
+            "(C) Overhead installation",
+            "(D) Underground installation",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Power"
+    },
+    {
+        "image": "67507ee8a7104d5e9b506e81e23851c6.jpg",
+        "question": "What is the main purpose of the power equipment in the picture?",
+        "choice": [
+            "(A) Measure current",
+            "(B) Measure voltage",
+            "(C) Measure power factor",
+            "(D) Measure resistance",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Power"
+    },
+    {
+        "image": "9880898d047e4d51bfa8643e0cd3218a.jpg",
+        "question": "What is the main purpose of the power equipment in the picture?",
+        "choice": [
+            "(A) Measure current",
+            "(B) Measure voltage",
+            "(C) Measure power factor",
+            "(D) Measure resistance",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Power"
+    },
+    {
+        "image": "fc3397f5dc694cc090b70ad1aeb3e549.jpg",
+        "question": "What is the main purpose of the power equipment in the picture?",
+        "choice": [
+            "(A) Measure current",
+            "(B) Measure voltage",
+            "(C) Measure power factor",
+            "(D) Measure resistance",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Power"
+    },
+    {
+        "image": "4a976a91b65f4b419b3611a05a982fda.jpg",
+        "question": "What is the measurement range of the power equipment in the picture?",
+        "choice": [
+            "(A) 0-0.5A",
+            "(B) 0-1A",
+            "(C) 0-2A",
+            "(D) 0-5A",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Power"
+    },
+    {
+        "image": "3579ff4a41514d4c8b449f89d9f1d5ad.jpg",
+        "question": "What is the measurement range of the power equipment in the picture?",
+        "choice": [
+            "(A) 0-3V",
+            "(B) 0-10V",
+            "(C) 0-15V",
+            "(D) 0-300V",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Power"
+    },
+    {
+        "image": "fd9dea3a58c74f9a91057ddc3cb02e6b.jpg",
+        "question": "What is the measurement value of the power equipment in the picture?",
+        "choice": [
+            "(A) 0.1A",
+            "(B) 0.2A",
+            "(C) 0.32A",
+            "(D) 1.1A",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Power"
+    },
+    {
+        "image": "479609b5076b44208c6ab897e58b5e23.jpg",
+        "question": "What is the measurement value of the power equipment in the picture?",
+        "choice": [
+            "(A) 1V",
+            "(B) 7V",
+            "(C) 0.7V",
+            "(D) 3.5V",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Power"
+    },
+    {
+        "image": "1c56d7a1f91d4e1993878a8fde004596.jpg",
+        "question": "What does the color marking of the cable in the picture represent?",
+        "choice": [
+            "(A) Ground wire",
+            "(B) Live wire",
+            "(C) Neutral wire",
+            "(D) Twisted pair wire",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Power"
+    },
+    {
+        "image": "a3c3283e42d54a1a9f876b3622ec76a1.jpg",
+        "question": "What type of connection is the device interface shown in the picture designed for?",
+        "choice": [
+            "(A) Data communication",
+            "(B) Power input",
+            "(C) Ground connection",
+            "(D) Measurement signal output",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Power"
+    },
+    {
+        "image": "6e8150b2fc4942f98c7c4df03588ba3f.jpg",
+        "question": "What type of fault does the protective device in the picture protect against?",
+        "choice": [
+            "(A) Overcurrent",
+            "(B) Overvoltage",
+            "(C) Short circuit",
+            "(D) Grounding",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Power"
+    },
+    {
+        "image": "f16b883c125e4d3fb5e4c4336b2ef171.jpg",
+        "question": "What type of conductor connection is shown in the picture?",
+        "choice": [
+            "(A) Bolted connection",
+            "(B) Welding",
+            "(C) Crimping",
+            "(D) Plug connection",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Power"
+    },
+    {
+        "image": "8926ed368dbf47a289a3b74053df564e.jpg",
+        "question": "What parameter is the device in the picture primarily measuring based on the displayed reading and unit?",
+        "choice": [
+            "(A) Resistance",
+            "(B) Capacitance",
+            "(C) Inductance",
+            "(D) Frequency",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Power"
+    },
+    {
+        "image": "9a682d6f03904f9995a94c72ef90f440.jpg",
+        "question": "What type of grounding system is shown in the picture?",
+        "choice": [
+            "(A) Single point grounding",
+            "(B) Multiple point grounding",
+            "(C) Floating grounding",
+            "(D) Local grounding",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Power"
+    },
+    {
+        "image": "d4bf62a11bb84f3fbead008024a70d67.jpg",
+        "question": "What is the resolution of the instrument dial in the picture?",
+        "choice": [
+            "(A) 0.01",
+            "(B) 0.1",
+            "(C) 1",
+            "(D) 2",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Power"
+    },
+    {
+        "image": "0a160215af6d4eda9c8bd6026960238b.jpg",
+        "question": "What type of overhead line tower is shown in the picture?",
+        "choice": [
+            "(A) Transmission tower",
+            "(B) Distribution tower",
+            "(C) Communication tower",
+            "(D) Railway electrification tower",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Power"
+    },
+    {
+        "image": "732b35e44d4c42ffa93f128bdbeea5c3.jpg",
+        "question": "What function does the device in the picture most likely perform based on the displayed symbol?",
+        "choice": [
+            "(A) Power conversion",
+            "(B) Power storage",
+            "(C) Power transmission",
+            "(D) Power measurement",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Power"
+    },
+    {
+        "image": "524a03bf37e845189ec8eb1e6bf6a555.jpg",
+        "question": "What does the symbol in the picture most likely represent?",
+        "choice": [
+            "(A) High voltage danger",
+            "(B) Grounding",
+            "(C) Prohibited operation",
+            "(D) Load switch",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Power"
+    },
+    {
+        "image": "7c7f76e0be3d4bf8ba4030e53e2fa071.jpg",
+        "question": "What is the circuit in the picture?",
+        "choice": [
+            "(A) Diode voltage regulator circuit",
+            "(B) Series voltage regulator circuit",
+            "(C) Common emitter amplifier circuit",
+            "(D) Bridge rectifier circuit",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Electronic"
+    },
+    {
+        "image": "167aa080e56c4c9a980cfe046841d7a3.jpg",
+        "question": "What is the circuit in the picture?",
+        "choice": [
+            "(A) Diode voltage regulator circuit ",
+            "(B) Series voltage regulator circuit ",
+            "(C) Common emitter amplification circuit ",
+            "(D) Bridge rectifier circuit",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Electronic"
+    },
+    {
+        "image": "54a48f116f504476b31cd89c97250477.jpg",
+        "question": "What is the electrical component in the picture?",
+        "choice": [
+            "(A) Solar panel",
+            "(B) Filter",
+            "(C) Cable",
+            "(D) Transformer",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Electronic"
+    },
+    {
+        "image": "e35da8af6a4444bebce70f5a5a3bd11e.jpg",
+        "question": "What is the circuit in the picture?",
+        "choice": [
+            "(A) Diode voltage regulator circuit",
+            "(B) Series voltage regulator circuit",
+            "(C) Common emitter amplification circuit",
+            "(D) Bridge rectifier circuit",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Electronic"
+    },
+    {
+        "image": "a481ba2ff22e47679cb92066d2da5bde.jpg",
+        "question": "What is the electrical component in the picture?",
+        "choice": [
+            "(A) Resistor",
+            "(B) Capacitor",
+            "(C) Rectifier",
+            "(D) Inductor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Electronic"
+    },
+    {
+        "image": "1d0d416ab204419a9b1cb9798016b018.jpg",
+        "question": "What is the electrical component in the picture?",
+        "choice": [
+            "(A) Resistor",
+            "(B) Capacitor",
+            "(C) Variable resistor",
+            "(D) Inductor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Electronic"
+    },
+    {
+        "image": "115781aa0ddd4b2da4a2a544041b4fd8.jpg",
+        "question": "What is the electrical component in the picture?",
+        "choice": [
+            "(A) Resistor",
+            "(B) Capacitor",
+            "(C) Variable resistor",
+            "(D) Inductor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Electronic"
+    },
+    {
+        "image": "4501dae2831040e88a39fc207e905567.jpg",
+        "question": "What is the electrical component in the picture?",
+        "choice": [
+            "(A) Resistor",
+            "(B) Capacitor",
+            "(C) Variable resistor",
+            "(D) Inductor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Electronic"
+    },
+    {
+        "image": "026c5e4328f34091aa7d68269eef6f94.jpg",
+        "question": "What is the fault in the picture?",
+        "choice": [
+            "(A) Transformer damage",
+            "(B) Circuit failure",
+            "(C) Cable damage",
+            "(D) Low voltage",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Electronic"
+    },
+    {
+        "image": "d8463132934c491c9bafa2d79e1e6d41.jpg",
+        "question": "What is the electrical equipment in the picture?",
+        "choice": [
+            "(A) Relay",
+            "(B) Generator",
+            "(C) Variable resistor",
+            "(D) Mobile cable",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Electronic"
+    },
+    {
+        "image": "e3c872e0103342f480d13f7876f3eafa.jpg",
+        "question": "What is the function of the electronic equipment in the picture?",
+        "choice": [
+            "(A) Cut off the circuit in time",
+            "(B) Control a large current circuit with a small current",
+            "(C) Store electrical energy",
+            "(D) Generate electrical energy",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Electronic"
+    },
+    {
+        "image": "374dd644d2cb4748aa0886107e545f31.jpg",
+        "question": "What is the impact of the electronic equipment damage on the circuit?",
+        "choice": [
+            "(A) All circuits lose power",
+            "(B) Workers cannot manually cut off the circuit",
+            "(C) Loss of circuit monitoring",
+            "(D) Causing control signals to fail",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Electronic"
+    },
+    {
+        "image": "b379a6f3bcf648838df455fbbf97861f.jpg",
+        "question": "What is the electronic component in the picture?",
+        "choice": [
+            "(A) Capacitor",
+            "(B) Inductor",
+            "(C) Generator",
+            "(D) Transformer",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Electronic"
+    },
+    {
+        "image": "e0fcd3bdef2b4594b564f6d9334525ee.jpg",
+        "question": "Which of the following functions does the electronic component in the picture not have?",
+        "choice": [
+            "(A) Store electrical energy and release it when needed",
+            "(B) Distribute power to various circuits and devices",
+            "(C) Allow AC signals to pass while blocking DC components",
+            "(D) Smooth out current fluctuations and reduce ripple",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Electronic"
+    },
+    {
+        "image": "e56d104e03104601bf986dd16ff7199d.jpg",
+        "question": "Which of the following problems is not directly caused by the damage of the electronic component in the picture?",
+        "choice": [
+            "(A) Output voltage instability",
+            "(B) Increased power supply noise",
+            "(C) Signal distortion",
+            "(D) Insufficient current",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Electronic"
+    },
+    {
+        "image": "1061173be32144d392bc37fe87f7a008.jpg",
+        "question": "What is the electronic component in the picture?",
+        "choice": [
+            "(A) Transformer",
+            "(B) Circuit breaker",
+            "(C) Inductor",
+            "(D) Capacitor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Electronic"
+    },
+    {
+        "image": "a1954f0d6ef242e19c728814f76b3430.jpg",
+        "question": "Which of the following functions does the electronic component in the picture not have?",
+        "choice": [
+            "(A) Exhibit impedance to AC current",
+            "(B) Only allow specific frequency signals to pass",
+            "(C) Increase circuit output power",
+            "(D) Smooth out current fluctuations",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Electronic"
+    },
+    {
+        "image": "8b3cf05f950544819de5b35ffcc1d254.jpg",
+        "question": "Which of the following problems is caused by the damage of the electronic component in the picture?",
+        "choice": [
+            "(A) Increased AC current in the branch",
+            "(B) Unable to detect circuit current",
+            "(C) Increased electricity bill",
+            "(D) Signal distortion",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Electronic"
+    },
+    {
+        "image": "f1cb9f5b0d71496692ba9ae377149e4a.jpg",
+        "question": "What is the electronic component in the picture?",
+        "choice": [
+            "(A) Ammeter",
+            "(B) Voltmeter",
+            "(C) Transformer",
+            "(D) Relay",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Electronic"
+    },
+    {
+        "image": "dc53eea317b44375aa000cdee236de4a.jpg",
+        "question": "What is the main function of the electronic component in the picture?",
+        "choice": [
+            "(A) Smooth out current fluctuations",
+            "(B) Cut off and protect the circuit in time",
+            "(C) Monitor circuit voltage",
+            "(D) Monitor circuit current",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Electronic"
+    },
+    {
+        "image": "7c8f88418ac24593ac7abacb0dc9c81b.jpg",
+        "question": "What is the electronic component in the picture?",
+        "choice": [
+            "(A) Ammeter",
+            "(B) Voltmeter",
+            "(C) Capacitor",
+            "(D) Inductor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Electronic"
+    },
+    {
+        "image": "aebd13b3a96f496ea3d75056b0d410d7.jpg",
+        "question": "Which of the following statements about the properties and uses of the electronic component in the picture is correct?",
+        "choice": [
+            "(A) The component has a low internal resistance",
+            "(B) Can be used to block AC current",
+            "(C) Can detect circuit current",
+            "(D) Can be used to troubleshoot circuit problems",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Electronic"
+    },
+    {
+        "image": "ef3386db38064856851373f9cd307077.jpg",
+        "question": "What is the electronic component in the picture?",
+        "choice": [
+            "(A) Voltmeter",
+            "(B) Capacitor",
+            "(C) Inductor",
+            "(D) Variable resistor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Electronic"
+    },
+    {
+        "image": "77a6e6e260904a0dafa582181698c814.jpg",
+        "question": "What is the main function of the electronic component in the picture?",
+        "choice": [
+            "(A) Change the resistance to adjust the current",
+            "(B) Detect the voltage and current of the circuit",
+            "(C) Block AC current",
+            "(D) Block DC current",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Electronic"
+    },
+    {
+        "image": "b2bbd2b9320f4a7f9b5739abd9ab5a21.jpg",
+        "question": "What is the electronic device in the picture?",
+        "choice": [
+            "(A) Transformer",
+            "(B) Inverter",
+            "(C) Distribution panel",
+            "(D) Circuit breaker",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Electronic"
+    },
+    {
+        "image": "ae3ea89d035f48ea8c436c0621c5a9be.jpg",
+        "question": "What is the main function of the electronic device in the picture?",
+        "choice": [
+            "(A) Protect circuits and devices from overload",
+            "(B) Distribute power to various circuits and devices",
+            "(C) Convert mechanical energy to electrical energy",
+            "(D) Store electrical energy",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Electronic"
+    },
+    {
+        "image": "9aaf5320381b4baab728bd6c67427dfe.jpg",
+        "question": "What is the impact of the circuit fault in the picture?",
+        "choice": [
+            "(A) Signal distortion",
+            "(B) Unable to detect circuit current",
+            "(C) Increased current in the branch",
+            "(D) Circuit loses power",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Electronic"
+    },
+    {
+        "image": "f0200fe95d3e4f14afc0d258b72092a8.jpg",
+        "question": "What is the electrical component in the picture?",
+        "choice": [
+            "(A) Inductor",
+            "(B) Transistor",
+            "(C) Potentiometer",
+            "(D) Diode",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Electronic"
+    },
+    {
+        "image": "92693e76be6b49d68f6e8155680a197d.jpg",
+        "question": "What category does the component in the picture belong to?",
+        "choice": [
+            "(A) Semiconductor devices",
+            "(B) Electromagnetic components",
+            "(C) Passive components",
+            "(D) Power components",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Electronic"
+    },
+    {
+        "image": "788fa69a99cd407fa8e97181dd50c7d5.jpg",
+        "question": "Which component is the main feature of the picture?",
+        "choice": [
+            "(A) Diode",
+            "(B) Transistor",
+            "(C) Capacitor",
+            "(D) Variable resistor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Electronic"
+    },
+    {
+        "image": "61a7b9ddc9694d5a9196f40180982815.jpg",
+        "question": "What type of circuit protection component is displayed in the picture?",
+        "choice": [
+            "(A) Fuse",
+            "(B) Overload protector",
+            "(C) Voltage protector",
+            "(D) Current limiter",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Electronic"
+    },
+    {
+        "image": "555a76fd9b464bdca1b8884174c0d2b3.jpg",
+        "question": "What type of electronic component is displayed in the picture?",
+        "choice": [
+            "(A) Crystal oscillator",
+            "(B) Fuse",
+            "(C) optocoupler",
+            "(D) Voltage-sensitive resistor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Electronic"
+    },
+    {
+        "image": "28f0035d59534bc897672188e4085b94.jpg",
+        "question": "What is the component in the picture based on the component shape and pin in the picture?",
+        "choice": [
+            "(A) Through-hole resistor",
+            "(B) Surface mount capacitor",
+            "(C) Through-hole diode",
+            "(D) Surface mount inductor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Electronic"
+    },
+    {
+        "image": "cb3c8850e8004b689c94068855a2cbe3.jpg",
+        "question": "What type of electronic component is displayed in the picture?",
+        "choice": [
+            "(A) Power module",
+            "(B) Microprocessor",
+            "(C) Memory chip",
+            "(D) Interface chip",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Electronic"
+    },
+    {
+        "image": "000bdbdc976b4a8f8626b8241dfffe20.jpg",
+        "question": "What is the main function of the component in the picture?",
+        "choice": [
+            "(A) Signal filtering",
+            "(B) Signal coupling",
+            "(C) Signal isolation",
+            "(D) Signal amplification",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Electronic"
+    },
+    {
+        "image": "3d6082bbd50247178b1f0d0d4628f46b.jpg",
+        "question": "What is the electrical characteristic of the component in the picture?",
+        "choice": [
+            "(A) Fixed resistor",
+            "(B) Variable resistor",
+            "(C) Fixed capacitor",
+            "(D) Variable capacitor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Electronic"
+    },
+    {
+        "image": "ebdc92383edc4fb5a6212bd9422c3dae.jpg",
+        "question": "What is the main function of the component in the picture?",
+        "choice": [
+            "(A) Rectification",
+            "(B) Voltage stabilization",
+            "(C) Amplification",
+            "(D) Switching",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Electronic"
+    },
+    {
+        "image": "f1b2058097d64714b20cecd9a89e45e9.jpg",
+        "question": "What is the type description of the component in the picture?",
+        "choice": [
+            "(A) Through-hole component",
+            "(B) Surface-mount component",
+            "(C) Pin-in-hole component",
+            "(D) Surface-mount device",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Electronic"
+    },
+    {
+        "image": "62847d62cf5947a8940e945d9d6077e9.jpg",
+        "question": "What is the typical application of the component in the picture?",
+        "choice": [
+            "(A) Power filtering",
+            "(B) Signal filtering",
+            "(C) Power conversion",
+            "(D) Signal conversion",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Electronic"
+    },
+    {
+        "image": "8dd03b93a9a348da8cea947fad73b945.jpg",
+        "question": "What type of electronic component is shown in the picture?",
+        "choice": [
+            "(A) Crystal oscillator",
+            "(B) Fuse",
+            "(C) Optocoupler",
+            "(D) Pressure-sensitive resistor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Electronic"
+    },
+    {
+        "image": "0edb3b80b9f7476499bd177000c22198.jpg",
+        "question": "What is the electronic component in the picture?",
+        "choice": [
+            "(A) Potentiometer",
+            "(B) Variable capacitor",
+            "(C) Fixed capacitor",
+            "(D) Inductor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Electronic"
+    },
+    {
+        "image": "f579eb38d0ad46e6aaf2cfa25f047383.jpg",
+        "question": "What type of electronic component is shown in the picture?",
+        "choice": [
+            "(A) Crystal oscillator",
+            "(B) Fuse",
+            "(C) Optocoupler",
+            "(D) Pressure-sensitive resistor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Electronic"
+    },
+    {
+        "image": "18e5222ed4d34255b269925abdf8d4dd.jpg",
+        "question": "What type of electronic component is shown in the picture?",
+        "choice": [
+            "(A) Crystal oscillator",
+            "(B) Fuse",
+            "(C) Optocoupler",
+            "(D) Pressure-sensitive resistor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Electronic"
+    },
+    {
+        "image": "cfae7d0b259547dfb09e90260aacbc54.jpg",
+        "question": "What is this electronic component?",
+        "choice": [
+            "(A) Transistor",
+            "(B) Thyristor",
+            "(C) Field-effect transistor",
+            "(D) Photoresistor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Electronic"
+    },
+    {
+        "image": "ecb544049ace461ea250629b6a702859.jpg",
+        "question": "What is the electronic component shown in the picture?",
+        "choice": [
+            "(A) Transistor",
+            "(B) Integrated circuit",
+            "(C) Potentiometer",
+            "(D) Photoresistor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Electronic"
+    },
+    {
+        "image": "4644096418a541a1ac092ef8a7f25500.jpg",
+        "question": "What type of sensor might the electronic component in the picture be?",
+        "choice": [
+            "(A) Temperature sensor",
+            "(B) Light sensor",
+            "(C) Pressure sensor",
+            "(D) Humidity sensor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "D",
+        "category": "Electronic"
+    },
+    {
+        "image": "7758e922c9a14240b6e020ebdcfda15f.jpg",
+        "question": "What type of sensor might the electronic component in the picture be?",
+        "choice": [
+            "(A) Temperature sensor",
+            "(B) Light sensor",
+            "(C) Pressure sensor",
+            "(D) Humidity sensor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "A",
+        "category": "Electronic"
+    },
+    {
+        "image": "3681eb9198df4e74a56cac6cf38d44e8.jpg",
+        "question": "What type of component is shown in the picture?",
+        "choice": [
+            "(A) Thermistor",
+            "(B) Photodiode",
+            "(C) Ferrite bead",
+            "(D) Aluminum electrolytic capacitor",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Electronic"
+    },
+    {
+        "image": "bb8d54e95f014e6db3ff852e7955287a.jpg",
+        "question": "Based on the appearance of the component in the picture, what is it most likely to be?",
+        "choice": [
+            "(A) Relay",
+            "(B) Transformer",
+            "(C) Speaker",
+            "(D) Buzzer",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "C",
+        "category": "Electronic"
+    },
+    {
+        "image": "1e779f957d7f402e9399a80cacd47fde.jpg",
+        "question": "What type of connector is shown in the picture?",
+        "choice": [
+            "(A) USB connector",
+            "(B) HDMI connector",
+            "(C) Power connector",
+            "(D) Network connector",
+            "(E) No corresponding features in the picture"
+        ],
+        "answer": "B",
+        "category": "Electronic"
+    }
+]

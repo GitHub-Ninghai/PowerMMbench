@@ -1,0 +1,902 @@
+[
+  {
+    "index": 0,
+    "question": "图中是什么建筑？",
+    "category": "电力行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 1,
+    "question": "图中是什么设施？",
+    "category": "电力行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 2,
+    "question": "图中设备有什么用？",
+    "category": "电力行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 3,
+    "question": "图中是什么设施？",
+    "category": "电力行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 4,
+    "question": "图中的设备是什么？",
+    "category": "电力行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 5,
+    "question": "图中设备有什么作用？",
+    "category": "电力行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 6,
+    "question": "图中设备故障，不可能导致什么结果？",
+    "category": "电力行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 7,
+    "question": "图中是什么设备？",
+    "category": "电力行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 8,
+    "question": "图中设备没有以下哪项用途？",
+    "category": "电力行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 9,
+    "question": "图中设备损坏，会导致什么问题？",
+    "category": "电力行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 10,
+    "question": "图中的设备是什么？",
+    "category": "电力行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 11,
+    "question": "图中设备没有哪项性质或用途？",
+    "category": "电力行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 12,
+    "question": "图中发电机利用了什么能量来发电？",
+    "category": "电力行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 13,
+    "question": "图中设施是什么类型的发电站？",
+    "category": "电力行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 14,
+    "question": "图中设施将什么能量转化成了电能？",
+    "category": "电力行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 15,
+    "question": "图中设施将什么能量转化为了电能？",
+    "category": "电力行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 16,
+    "question": "图中是什么电力设施？",
+    "category": "电力行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 17,
+    "question": "图中电站一共有几座烟囱(不包含冷却塔)？",
+    "category": "电力行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 18,
+    "question": "图中电站一共有几座烟囱(不包含冷却塔)？",
+    "category": "电力行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 19,
+    "question": "图中的电力设施主要用于什么？",
+    "category": "电力行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 20,
+    "question": "图中的设备在电力系统中通常位于哪个位置？",
+    "category": "电力行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 21,
+    "question": "图中的电力设备最可能在哪种环境下工作？",
+    "category": "电力行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 22,
+    "question": "图中的电力设施主要处理哪种类型的电力问题？",
+    "category": "电力行业",
+    "ground_truth": "A",
+    "predicted": "B",
+    "is_correct": false,
+    "raw_output": "B"
+  },
+  {
+    "index": 23,
+    "question": "图中显示的是什么类型的输电线路？",
+    "category": "电力行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 24,
+    "question": "图中的电力设备主要用于什么？",
+    "category": "电力行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 25,
+    "question": "图中的电力工具是什么？",
+    "category": "电力行业",
+    "ground_truth": "A",
+    "predicted": "E",
+    "is_correct": false,
+    "raw_output": "E"
+  },
+  {
+    "index": 26,
+    "question": "图中的电力设备是什么，其主要作用是什么？",
+    "category": "电力行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 27,
+    "question": "从图中变压器的结构特征判断，这最可能是哪种类型的变压器？",
+    "category": "电力行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 28,
+    "question": "图中所示的断路器属于哪种类型？",
+    "category": "电力行业",
+    "ground_truth": "C",
+    "predicted": "A",
+    "is_correct": false,
+    "raw_output": "A"
+  },
+  {
+    "index": 29,
+    "question": "图中所示的电缆接头属于哪种类型？",
+    "category": "电力行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 30,
+    "question": "根据图中所示的电力设备检测仪器显示的波形，最可能出现了什么问题？",
+    "category": "电力行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 31,
+    "question": "图中所示的电力设备的保护装置是什么？",
+    "category": "电力行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 32,
+    "question": "图中所示的电力设备的安装方式是什么？",
+    "category": "电力行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 33,
+    "question": "图中的电力设备主要用于什么目的？",
+    "category": "电力行业",
+    "ground_truth": "B",
+    "predicted": "A",
+    "is_correct": false,
+    "raw_output": "A"
+  },
+  {
+    "index": 34,
+    "question": "图中的电力设备主要用于什么目的？",
+    "category": "电力行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 35,
+    "question": "图中的电力设备主要用于什么目的？",
+    "category": "电力行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 36,
+    "question": "图中设备的可测量范围是多少",
+    "category": "电力行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 37,
+    "question": "图中设备的可测量范围是多少",
+    "category": "电力行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 38,
+    "question": "图中的设备，测量值是多少",
+    "category": "电力行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 39,
+    "question": "图中的设备，测量值是多少",
+    "category": "电力行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 40,
+    "question": "图中电缆的颜色标识代表什么用途？",
+    "category": "电力行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 41,
+    "question": "图中所示的设备接口是为哪种类型的连接设计的？",
+    "category": "电力行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 42,
+    "question": "图中的保护装置针对哪种故障提供保护？",
+    "category": "电力行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 43,
+    "question": "图中所示的导体连接方式是什么类型？",
+    "category": "电力行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 44,
+    "question": "从图中设备显示的读数和单位来看，这个设备主要测量的是哪种参数？",
+    "category": "电力行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 45,
+    "question": "图中显示的接地系统属于哪种类型？",
+    "category": "电力行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 46,
+    "question": "图中显示的仪器表盘刻度的分辨率是多少？",
+    "category": "电力行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 47,
+    "question": "图中显示的架空线路杆塔属于哪种类型？",
+    "category": "电力行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 48,
+    "question": "根据图中的标识，这种设备最可能执行什么功能？",
+    "category": "电力行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 49,
+    "question": "图中的标识符号最可能表示什么？",
+    "category": "电力行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 50,
+    "question": "图中是什么电路",
+    "category": "电子行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 51,
+    "question": "图中是什么电路",
+    "category": "电子行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 52,
+    "question": "图中是什么电器部件",
+    "category": "电子行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 53,
+    "question": "图中是什么电路",
+    "category": "电子行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 54,
+    "question": "图中是什么电器元件",
+    "category": "电子行业",
+    "ground_truth": "C",
+    "predicted": "D",
+    "is_correct": false,
+    "raw_output": "D"
+  },
+  {
+    "index": 55,
+    "question": "图中是什么电器元件",
+    "category": "电子行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 56,
+    "question": "图中是什么电器元件",
+    "category": "电子行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 57,
+    "question": "这是什么电器元件",
+    "category": "电子行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 58,
+    "question": "图片展示了什么故障",
+    "category": "电子行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 59,
+    "question": "图中是什么电气设备？",
+    "category": "电子行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 60,
+    "question": "图中电子设备有什么作用？",
+    "category": "电子行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 61,
+    "question": "图中电子设备损坏，会对电路产生什么影响？",
+    "category": "电子行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 62,
+    "question": "图中是什么电子元件？",
+    "category": "电子行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 63,
+    "question": "图中电子元件没有以下哪项功能？",
+    "category": "电子行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 64,
+    "question": "图中电子元件损坏不会直接导致以下什么问题？",
+    "category": "电子行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 65,
+    "question": "图中是什么电子原件？",
+    "category": "电子行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 66,
+    "question": "图中电子元件不具有哪项功能？",
+    "category": "电子行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 67,
+    "question": "图中电子元件损坏，会引起以下哪项故障？",
+    "category": "电子行业",
+    "ground_truth": "D",
+    "predicted": "B",
+    "is_correct": false,
+    "raw_output": "B"
+  },
+  {
+    "index": 68,
+    "question": "图中是什么电子元件？",
+    "category": "电子行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 69,
+    "question": "图中电子元件的主要作用是？",
+    "category": "电子行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 70,
+    "question": "图中的电子元件是什么？",
+    "category": "电子行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 71,
+    "question": "关于图中电子元件的性质与用途，选项说法中正确的是？",
+    "category": "电子行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 72,
+    "question": "图中电子元件是什么？",
+    "category": "电子行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 73,
+    "question": "图中电子元件的主要作用是？",
+    "category": "电子行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 74,
+    "question": "图中的电子设备是什么？",
+    "category": "电子行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 75,
+    "question": "图中电子设备的主要功能是？",
+    "category": "电子行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 76,
+    "question": "图中线路故障，会对电路造成什么影响？",
+    "category": "电子行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 77,
+    "question": "图中是什么电气组件？",
+    "category": "电子行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 78,
+    "question": "图中元件的结构特征表明它属于以下哪一类？",
+    "category": "电子行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 79,
+    "question": "以下哪个元件是图中的主要特征？",
+    "category": "电子行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 80,
+    "question": "图中展示的是什么类型的电路保护元件？",
+    "category": "电子行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 81,
+    "question": "图中展示的是什么类型的电子元件？",
+    "category": "电子行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 82,
+    "question": "根据图中的元件形状和引脚，这是什么元件？",
+    "category": "电子行业",
+    "ground_truth": "B",
+    "predicted": "E",
+    "is_correct": false,
+    "raw_output": "E"
+  },
+  {
+    "index": 83,
+    "question": "图中元件的类型是什么？",
+    "category": "电子行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 84,
+    "question": "图中元件的主要作用是什么？",
+    "category": "电子行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 85,
+    "question": "图中元件的电气特性是什么？",
+    "category": "电子行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 86,
+    "question": "图中元件的主要功能是什么？",
+    "category": "电子行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 87,
+    "question": "图中元件的类型描述正确的是？",
+    "category": "电子行业",
+    "ground_truth": "C",
+    "predicted": "A",
+    "is_correct": false,
+    "raw_output": "A"
+  },
+  {
+    "index": 88,
+    "question": "图中元件的典型用途是什么？",
+    "category": "电子行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 89,
+    "question": "图中显示的是哪个类型的电子元件？",
+    "category": "电子行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 90,
+    "question": "图中的电子元件是什么？",
+    "category": "电子行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 91,
+    "question": "图中显示的是哪个类型的电子元件？",
+    "category": "电子行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 92,
+    "question": "图中显示的是哪个类型的电子元件？",
+    "category": "电子行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 93,
+    "question": "这个电子元件是什么？",
+    "category": "电子行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  },
+  {
+    "index": 94,
+    "question": "图中展示的电子元件是什么？",
+    "category": "电子行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 95,
+    "question": "图中所示的电子元件可能是什么类型的传感器？",
+    "category": "电子行业",
+    "ground_truth": "D",
+    "predicted": "D",
+    "is_correct": true,
+    "raw_output": "D"
+  },
+  {
+    "index": 96,
+    "question": "图中所示的电子元件可能是什么类型的传感器？",
+    "category": "电子行业",
+    "ground_truth": "A",
+    "predicted": "A",
+    "is_correct": true,
+    "raw_output": "A"
+  },
+  {
+    "index": 97,
+    "question": "图中所示的元件是哪种类型？",
+    "category": "电子行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 98,
+    "question": "观察图中元件的外观，它最有可能是什么？",
+    "category": "电子行业",
+    "ground_truth": "C",
+    "predicted": "C",
+    "is_correct": true,
+    "raw_output": "C"
+  },
+  {
+    "index": 99,
+    "question": "图中展示的是哪种类型的连接器？",
+    "category": "电子行业",
+    "ground_truth": "B",
+    "predicted": "B",
+    "is_correct": true,
+    "raw_output": "B"
+  }
+]
