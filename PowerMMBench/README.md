@@ -42,7 +42,10 @@ PowerMMBench/
 │       ├── questions.jsonl
 │       ├── images/       # images referenced by the questions
 │       └── videos/       # videos referenced by the questions (visual_inspection only)
-└── questions_final.json  # flat copy of all 396 questions
+├── questions_final.json  # flat copy of all 396 questions
+├── index.html            # landing page -> benchmark viewer
+├── benchmark_viewer.html # interactive browser (single file, marked + KaTeX)
+└── favicon.svg
 ```
 
 Each `questions.jsonl` line is one question record with fields: `id`, `source`, `question_type`, `domain`, `difficulty`, `question`, `options`, `answer`, `explanation`, `has_image`, `images`, `has_video`, `videos`, `metadata`, `major_category`, `minor_category`.
@@ -86,3 +89,18 @@ Each `questions.jsonl` line is one question record with fields: `id`, `source`, 
 ## Sources
 
 Questions are derived from registered electrical engineer exam archives, industry standards, PowerMMBench collection pipelines and the [ElecBench](../Elecbench) / [MMEBench](../MMEBench) data families. Per-question provenance is kept in the `metadata` and `source` fields.
+
+## Interactive browsing (offline-capable viewer)
+
+`index.html` / `benchmark_viewer.html` provide the same interactive question browser as the PowerMMBench website: category tree, search, difficulty/type/source filters, rendered questions with images and playable videos.
+
+After cloning or downloading the repo, start a local server inside this folder:
+
+```bash
+cd PowerMMBench
+python -m http.server 8800
+```
+
+Then open <http://localhost:8800/> in a browser. (Double-clicking the HTML file directly does not work, because browsers block `fetch()` of local files.)
+
+GitHub Pages also works out of the box: enable Pages on this repository and the viewer is reachable at `https://<user>.github.io/PowerMMbench/PowerMMBench/`.
