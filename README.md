@@ -81,3 +81,22 @@ for line in open(sub / 'questions.jsonl', encoding='utf-8'):
 ## Sources
 
 Questions are derived from registered electrical engineer exam archives, industry standards, PowerMMBench collection pipelines and the [ElecBench](raw_data/Elecbench) / [MMEBench](raw_data/MMEBench) data families. Per-question provenance is kept in the `metadata` and `source` fields.
+
+## Citation
+
+📄 **Our paper is coming soon!**
+
+If you find PowerMMBench useful in your research, please cite the dataset for now:
+
+```bibtex
+@misc{powermmbench2026,
+  title       = {PowerMMBench: A Multimodal Reasoning Benchmark for Power Systems},
+  author      = {PowerMMBench Team},
+  year        = {2026},
+  howpublished = {\url{https://github.com/GitHub-Ninghai/PowerMMbench}},
+  note        = {Paper coming soon}
+}
+```
+
+The BibTeX entry will be updated with the full author list and publication venue once the paper is released.
+
