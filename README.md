@@ -90,8 +90,8 @@ If you find PowerMMBench useful in your research, please cite the dataset for no
 
 ```bibtex
 @misc{powermmbench2026,
-  title       = {PowerMMBench: A Multimodal Reasoning Benchmark for Power Systems},
-  author      = {PowerMMBench Team},
+  title       = {PowerMMBench: Power System Multimodal Reasoning LLM Benchmark Constructed via Agent Swarm Framework and World Model Simulation},
+  author      = {Ninghai Zhang},
   year        = {2026},
   howpublished = {\url{https://github.com/GitHub-Ninghai/PowerMMbench}},
   note        = {Paper coming soon}
